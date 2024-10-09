@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.agustin_cano.cursoreactnativemetacriticapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17b40c9e-5fdf-40d5-97c4-8ae385631cdb"
+      }
+    },
+    "owner": "agustin_cano"
   }
 }
